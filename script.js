@@ -1,5 +1,1 @@
-const toggle = document.querySelector(".menu-toggle");
-const nav = document.querySelector("#mainNav");
-toggle?.addEventListener("click", () => nav.classList.toggle("open"));
-document.querySelectorAll("#mainNav a").forEach(a => a.addEventListener("click", () => nav.classList.remove("open")));
-document.getElementById("year").textContent = new Date().getFullYear();
+const menu=document.querySelector('#menu'),nav=document.querySelector('#nav');menu?.addEventListener('click',()=>nav.classList.toggle('open'));document.querySelectorAll('#nav a').forEach(a=>a.addEventListener('click',()=>nav.classList.remove('open')));document.querySelectorAll('.filters button').forEach(b=>b.addEventListener('click',()=>{document.querySelectorAll('.filters button').forEach(x=>x.classList.remove('active'));b.classList.add('active');const y=b.dataset.y;document.querySelectorAll('.pubs article').forEach(p=>p.style.display=(y==='all'||p.dataset.y===y)?'grid':'none')}));document.querySelector('#year').textContent=new Date().getFullYear();
