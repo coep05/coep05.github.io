@@ -1,11 +1,18 @@
-# Prof. Rajanikant A. Metri — Academic Website V2
+# Prof. Rajanikant A. Metri — Academic Website
 
-Ready for GitHub Pages.
+This is the GitHub Pages website package for Prof. Rajanikant A. Metri.
 
-Replace the existing `index.html`, `styles.css`, and `script.js` in `coep05.github.io`, and upload the `assets` folder containing `RAM_Pic.jpeg`.
+## Files
+- `index.html` — website content
+- `styles.css` — light professional academic design
+- `script.js` — mobile menu, publication filters and active navigation
+- `assets/RAM_Pic.jpeg` — profile photograph
 
-Version 2 includes a refined academic design, responsive layout, research themes, education/industry timeline, publication year filters, patents, projects, academic activities, achievements, Google Scholar and ORCID.
+## GitHub Pages
+1. Open the `coep05.github.io` repository.
+2. Upload/replace the files above, keeping the `assets` folder.
+3. Commit the changes to the `main` branch.
+4. Open `https://coep05.github.io` after GitHub Pages finishes deploying.
 
-The complete 48-entry publication archive should be added after final verification against the CV. Personal residential address, DOB and marital status are not published.
-
-Note: the CV has an IC-SMART-2026 date inconsistency (heading mentions 2027 while body says March 2026); Version 2 avoids assigning an uncertain date.
+## Content note
+The IC-SMART-2026 conference papers are dated **27–28 March 2026**.
