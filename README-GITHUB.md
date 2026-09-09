@@ -1,42 +1,28 @@
-# Prof. Rajanikant A. Metri — Academic Website
+# Rajanikant A. Metri — Academic Website (Recommended)
 
-## GitHub Pages upload
+This version is the recommended polished academic design.
 
-1. Open the `coep05.github.io` repository on GitHub.
-2. Upload/replace **all files and the `assets` folder** from this package.
-3. Commit the changes to the `main` branch.
-4. Open `https://coep05.github.io/`.
+### Main improvements
+- Light, professional pastel-card visual design.
+- Smaller, balanced profile photograph.
+- Separate pages for Home, About, Education & Experience, Research, Publications, Innovation, Academic Activities, and Contact.
+- Compact academic/professional profile icons in the header.
+- Dedicated Contact & Digital Profiles page with clickable profile cards.
+- External profiles open in a new browser tab.
+- Responsive mobile navigation.
+- Publication year filters.
+- Confirmed IC-SMART-2026 date: **27–28 March 2026**.
 
-### Website structure
+### Included profiles
+ORCID, IEEE Author, Google Scholar, Vidwan, ResearchGate, LinkedIn, YouTube, and RIT Faculty Profile.
 
-This version uses **separate pages** rather than one long scrolling page:
-- Home
-- About
-- Education & Experience
-- Research
-- Publications
-- Innovation
-- Academic Activities
-- Contact & Digital Profiles
+X/Twitter is shown as a placeholder because a profile URL was not supplied. It can be activated later without changing the design.
 
-Every navigation tab opens its own HTML page. External academic/social profile links open in a **new browser tab**.
+### Upload to GitHub Pages
+1. Extract this ZIP.
+2. Open the `coep05.github.io` repository.
+3. Upload/replace all files and the `assets` folder.
+4. Commit to `main`.
+5. Open `https://coep05.github.io/`.
 
-### Digital profiles included
-
-- ORCID
-- IEEE Author
-- Google Scholar
-- RIT Faculty Profile
-- Vidwan
-- ResearchGate
-- LinkedIn
-- YouTube
-- X / Twitter placeholder (the profile URL was not supplied, so no URL was invented)
-
-### IC-SMART-2026
-
-The website uses the confirmed date **27–28 March 2026**.
-
-## Important
-
-Do not upload the ZIP itself into the repository. Extract it first, then upload the files/folder contents.
+Do not upload the ZIP file itself; upload its extracted contents.
