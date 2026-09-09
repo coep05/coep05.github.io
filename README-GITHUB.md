@@ -1,3 +1,8 @@
+## Final corrected build — 09 September 2026
+- Name shown as **Rajanikant A. Metri** (without “Prof.”).
+- Academic profile icons are forced into a compact horizontal header row.
+- Stylesheet URL is cache-busted so GitHub Pages does not retain the older CSS.
+
 # Rajanikant A. Metri — Academic Website (Recommended)
 
 This version is the recommended polished academic design.
